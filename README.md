@@ -1,1 +1,1 @@
-# testeGit
+# Repositório para treinamento de GIT
